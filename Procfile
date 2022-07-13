@@ -1,1 +1,1 @@
-web: gunicorn webdev.wsgi --log-file -
+web: gunicorn portifolio.wsgi --log-file -
