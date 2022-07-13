@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'collectfast',
     'django.contrib.staticfiles',
+    'portifolio.home',
 ]
 
 MIDDLEWARE = [
